@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Lecturer of Statistics
+    company: California Polytechnic State University San Luis Obispo
+    company_url: 'https://www.linkedin.com/in/immanuelwilliams/'
     company_logo: org-x
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2018-09-15'
+    date_end: ''
+    description: Taught statistics for biology and business majors.
 
 design:
   columns: '2'
