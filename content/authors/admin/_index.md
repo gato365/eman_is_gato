@@ -15,7 +15,7 @@ education:
     year: 20011
 email: ""
 highlight_name: true
-interests:
+Interests:
 - Statistics
 - Mathematics
 - Data Science
@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: GATO365 Learning Center
   url: https://www.gato365.com/
-role: Lead Data Science
+role: Lead Data Scientist 
 social:
 - icon: envelope
   icon_pack: fas
