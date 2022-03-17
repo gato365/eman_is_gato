@@ -16,7 +16,7 @@ education:
 email: ""
 highlight_name: true
 Interests:
-- Statistics
+- Statistics/cococ
 - Mathematics
 - Data Science
 - Psychometrics
