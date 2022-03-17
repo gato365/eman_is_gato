@@ -1,8 +1,9 @@
+theme: PaperMod
 title: Finding Ways # Website name
 baseurl: 'https://emanandgato365.netlify.app' # Website URL
 
 paginate: 5
-theme: PaperMod
+
 
 enableRobotsTXT: true
 buildDrafts: false
