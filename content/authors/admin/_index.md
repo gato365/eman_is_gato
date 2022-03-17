@@ -12,7 +12,7 @@ education:
     year: 2013
   - course: BSc in Mathematics 
     institution: University of Maryland Baltimore County
-    year: 20011
+    year: 2011
 email: ""
 highlight_name: true
 Interests:

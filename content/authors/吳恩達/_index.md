@@ -1,17 +1,16 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests is centered around creating, assessing, and evaluating students learning experiences in statistics, mathematics, computer science and data science.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Education Measurement and Statistics
+    institution: Rutgers University
+    year: 2017
+  - course: MS in Statistics
+    institution: Rutgers University
+    year: 2013
+  - course: BSc in Mathematics 
+    institution: University of Maryland Baltimore County
+    year: 2011
 email: ""
 interests:
 - Artificial Intelligence
